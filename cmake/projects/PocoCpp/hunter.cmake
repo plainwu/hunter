@@ -12,7 +12,7 @@ hunter_add_version(
     URL
     "https://github.com/hunter-packages/poco/archive/v1.9.1-546cd69-p0.zip"
     SHA1
-    05772e1a730ed6ee1b0b154085d6b51e88301f7d
+    bdaf755d10f1f08f6cff42b8cf84a4f89e238c92
 )
 
 hunter_add_version(
